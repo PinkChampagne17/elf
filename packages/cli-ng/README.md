@@ -1,3 +1,3 @@
 # @ngneat/elf-cli-ng
 
-[Docs](https://ngneat.github.io/elf/docs/cli)
+[Docs](https://ngneat-elf.vercel.app/docs/cli)

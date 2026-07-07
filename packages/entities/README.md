@@ -1,3 +1,3 @@
 # @ngneat/elf-entities
 
-[Docs](https://ngneat.github.io/elf/docs/features/entities/entities)
+[Docs](https://ngneat-elf.vercel.app/docs/features/entities/entities)

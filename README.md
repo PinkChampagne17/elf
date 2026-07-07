@@ -53,7 +53,7 @@ Become a bronze sponsor and get your logo on our README on GitHub.
 
 </p>
 
-## 🤓 Learn about it on the [docs site](https://ngneat.github.io/elf/)
+## 🤓 Learn about it on the [docs site](https://ngneat-elf.vercel.app/)
 
 ## 👩‍🎓 Check out the React Todos [example](https://stackblitz.com/edit/react-ts-jidhej?file=todos/todos.tsx)
 

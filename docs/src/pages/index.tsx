@@ -33,10 +33,10 @@ function HomepageHeader() {
             style={{ marginLeft: '10px' }}
           >
             <a
-              href="https://github.com/ngneat/elf"
+              href="https://github.com/PinkChampagne17/elf"
               rel="noopener"
               target="_blank"
-              aria-label="Star ngneat/elf on GitHub"
+              aria-label="Star PinkChampagne17/elf on GitHub"
               style={{
                 textDecoration: 'none',
                 color: 'inherit',

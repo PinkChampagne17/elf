@@ -6,8 +6,8 @@ const darkCodeTheme = themes.oceanicNext;
 module.exports = {
   title: 'Elf | A Reactive Store with Magical Powers',
   tagline: 'A Reactive Store with Magical Powers',
-  baseUrl: '/elf/',
-  url: 'https://ngneat.github.io',
+  baseUrl: '/',
+  url: 'https://ngneat-elf.vercel.app',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -20,8 +20,8 @@ module.exports = {
         content: 'zLIQAxOp2sGFy10UE51HAMtWTqg7J8z1hpTxZR9G1WA',
       },
       { name: 'twitter:card', content: 'summary_large_image' },
-      { property: 'twitter:domain', content: 'ngneat.github.io' },
-      { property: 'twitter:url', content: 'https://ngneat.github.io/elf/' },
+      { property: 'twitter:domain', content: 'ngneat-elf.vercel.app' },
+      { property: 'twitter:url', content: 'https://ngneat-elf.vercel.app/' },
       { name: 'twitter:title', content: 'Elf 🧝' },
       {
         name: 'twitter:description',
@@ -29,9 +29,9 @@ module.exports = {
       },
       {
         name: 'twitter:image',
-        content: 'https://ngneat.github.io/elf/img/elf.png',
+        content: 'https://ngneat-elf.vercel.app/img/elf.png',
       },
-      { property: 'og:url', content: 'https://ngneat.github.io/elf/' },
+      { property: 'og:url', content: 'https://ngneat-elf.vercel.app/' },
       { property: 'og:type', content: 'website' },
       { property: 'og:title', content: 'Elf 🧝' },
       {
@@ -40,7 +40,7 @@ module.exports = {
       },
       {
         property: 'og:image',
-        content: 'https://ngneat.github.io/elf/img/elf.png',
+        content: 'https://ngneat-elf.vercel.app/img/elf.png',
       },
     ],
     algolia: {
@@ -69,7 +69,7 @@ module.exports = {
           className: 'header-icon-link header-sponsor-link',
         },
         {
-          href: 'https://github.com/ngneat/elf/',
+          href: 'https://github.com/PinkChampagne17/elf/',
           label: ' ',
           position: 'right',
           className: 'header-icon-link header-github-link',
@@ -93,7 +93,7 @@ module.exports = {
           items: [
             {
               label: 'Discussions',
-              href: 'https://github.com/ngneat/elf/discussions',
+              href: 'https://github.com/PinkChampagne17/elf/discussions',
             },
           ],
         },
@@ -102,7 +102,7 @@ module.exports = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/ngneat/elf',
+              href: 'https://github.com/PinkChampagne17/elf',
             },
             {
               label: 'Twitter',
@@ -134,7 +134,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/ngneat/elf/docusaurus/edit/main/website/',
+            'https://github.com/PinkChampagne17/elf/docusaurus/edit/main/website/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

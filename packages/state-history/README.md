@@ -1,3 +1,3 @@
 # @ngneat/elf-state-history
 
-[Docs](https://ngneat.github.io/elf/docs/features/history)
+[Docs](https://ngneat-elf.vercel.app/docs/features/history)

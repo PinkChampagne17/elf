@@ -51,7 +51,7 @@ DESCRIPTION
   Install Elf packages
 ```
 
-_See code: [src/commands/install.ts](https://github.com/ngneat/elf/blob/v3.1.0/src/commands/install.ts)_
+_See code: [src/commands/install.ts](https://github.com/PinkChampagne17/elf/blob/v3.1.0/src/commands/install.ts)_
 
 ## `elf repo`
 
@@ -69,5 +69,5 @@ DESCRIPTION
   Create a repository
 ```
 
-_See code: [src/commands/repo.ts](https://github.com/ngneat/elf/blob/v3.1.0/src/commands/repo.ts)_
+_See code: [src/commands/repo.ts](https://github.com/PinkChampagne17/elf/blob/v3.1.0/src/commands/repo.ts)_
 <!-- commandsstop -->

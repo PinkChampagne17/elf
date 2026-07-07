@@ -1,3 +1,3 @@
 # @ngneat/elf-requests
 
-[Docs](https://ngneat.github.io/elf/docs/features/requests/requests-status)
+[Docs](https://ngneat-elf.vercel.app/docs/features/requests/requests-status)

@@ -32,32 +32,32 @@ export default class Install extends Command {
 }
 
 const packages = [
-  { name: '@ngneat/elf', link: 'https://ngneat.github.io/elf/docs/store' },
+  { name: '@ngneat/elf', link: 'https://ngneat-elf.vercel.app/docs/store' },
   {
     name: '@ngneat/elf-entities',
-    link: 'https://ngneat.github.io/elf/docs/features/entities/entities/',
+    link: 'https://ngneat-elf.vercel.app/docs/features/entities/entities/',
   },
   {
     name: '@ngneat/elf-devtools',
-    link: 'https://ngneat.github.io/elf/docs/dev-tools',
+    link: 'https://ngneat-elf.vercel.app/docs/dev-tools',
   },
   {
     name: '@ngneat/elf-requests',
-    link: 'https://ngneat.github.io/elf/docs/features/requests/requests-status',
+    link: 'https://ngneat-elf.vercel.app/docs/features/requests/requests-status',
   },
   {
     name: '@ngneat/elf-state-history',
-    link: 'https://ngneat.github.io/elf/docs/features/history',
+    link: 'https://ngneat-elf.vercel.app/docs/features/history',
   },
   {
     name: '@ngneat/elf-persist-state',
-    link: 'https://ngneat.github.io/elf/docs/features/persist-state',
+    link: 'https://ngneat-elf.vercel.app/docs/features/persist-state',
   },
   {
     name: '@ngneat/elf-pagination',
-    link: 'https://ngneat.github.io/elf/docs/features/pagination',
+    link: 'https://ngneat-elf.vercel.app/docs/features/pagination',
   },
-  { name: '@ngneat/elf-cli-ng', link: 'https://ngneat.github.io/elf/docs/cli' },
+  { name: '@ngneat/elf-cli-ng', link: 'https://ngneat-elf.vercel.app/docs/cli' },
 ];
 
 const external = [
